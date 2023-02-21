@@ -21,241 +21,241 @@ github_username:  zuena-mushtaq
 markdown: kramdown
 
 
-# # Welcome to Beautiful Jekyll!
-# # This config file is meant for settings that affect your entire website. When you first
-# # set up your website you should go through all these settings and edit them, but after
-# # the initial set up you won't need to come back to this file often.
+# Welcome to Beautiful Jekyll!
+# This config file is meant for settings that affect your entire website. When you first
+# set up your website you should go through all these settings and edit them, but after
+# the initial set up you won't need to come back to this file often.
 
-# # --- Required options --- #
+# --- Required options --- #
 
-# # Name of website
-# title: Zuena Mushtaq CPP 527 Lab 5 
+# Name of website
+title: Zuena Mushtaq CPP 527 Lab 5 
 
-# # Your name to show in the footer
-# author: Zuena Mushtaq
+# Your name to show in the footer
+author: Zuena Mushtaq
 
-# # --- List of links in the navigation bar --- #
+# --- List of links in the navigation bar --- #
 
-# navbar-links:
-#   About Me: "aboutme"
-#   Resources:
-#     - Beautiful Jekyll: "https://beautifuljekyll.com"
-#     - Learn markdown: "https://www.markdowntutorial.com/"
-#     - Getting Started: "getstarted"
-#     baseurl: ""
-#     url: "http://zuena-mushtaq.github.io"
-
-
-# # --- Logo --- #
-
-# # Image to show in the navigation bar - works best with a square image
-# # Remove this parameter if you don't want an image in the navbar
-# avatar: "/assets/img/avatar-icon.png"
-
-# # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-# round-avatar: true
-
-# # If you want to have an image logo in the top-left corner instead of having the title of the website,
-# # then specify the following parameter
-# #title-img: /path/to/image
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Getting Started: "getstarted"
+    baseurl: ""
+    url: "http://zuena-mushtaq.github.io"
 
 
-# # --- Footer social media links --- #
+# --- Logo --- #
 
-# # Select the social network links that you want to show in the footer.
-# # Uncomment the links you want to show and add your information to each one.
-# social-network-links:
-#   email: zuena.mushtaq@asu.edu
-#   github: zuena-mushtaq
-#   youtube: c/zuenamushtaq
-# #  medium: yourname
-# #  reddit: yourname
-# #  linkedin: daattali
-# #  xing: yourname
-# #  stackoverflow: "3943160/daattali"
-# #  snapchat: deanat78
-# #  instagram: deanat78
-# #  spotify: yourname
-# #  telephone: +14159998888
-# #  steam: deanat78
-# #  twitch: yourname
-# #  yelp: yourname
-# #  telegram: yourname
-# #  calendly: yourname
-# #  mastodon: instance.url/@username
-# #  ORCID: your ORCID ID
-# #  google-scholar: your google scholar
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/assets/img/avatar-icon.png"
 
-# # If you want to show a link to an RSS in the footer, add the site description here.
-# # If you don't want to show an RSS link, remove the following line.
-# rss-description: This website is a virtual proof that I'm awesome
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
 
-# # --- General options --- #
+# If you want to have an image logo in the top-left corner instead of having the title of the website,
+# then specify the following parameter
+#title-img: /path/to/image
 
-# # Select which social network share links to show in posts
-# share-links-active:
-#   twitter: true
-#   facebook: true
-#   linkedin: true
-#   vk: false
 
-# # How to display the link to your website in the footer
-# # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"
+# --- Footer social media links --- #
 
-# # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-# excerpt_length: 50
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+  email: zuena.mushtaq@asu.edu
+  github: zuena-mushtaq
+  youtube: c/zuenamushtaq
+#  medium: yourname
+#  reddit: yourname
+#  linkedin: daattali
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+#  mastodon: instance.url/@username
+#  ORCID: your ORCID ID
+#  google-scholar: your google scholar
 
-# # Whether or not to show an excerpt for every blog post in the feed page
-# feed_show_excerpt: true
+# If you want to show a link to an RSS in the footer, add the site description here.
+# If you don't want to show an RSS link, remove the following line.
+rss-description: This website is a virtual proof that I'm awesome
 
-# # Whether or not to show a list of tags below each post preview in the feed page
-# feed_show_tags: true
+# --- General options --- #
 
-# # Add a search button to the navbar
-# post_search: true
+# Select which social network share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: false
 
-# # The keywords to associate with your website, for SEO purposes
-# #keywords: "my,list,of,keywords"
+# How to display the link to your website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "MyWebsite.com"
 
-# # --- Colours / background image --- #
+# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
+excerpt_length: 50
 
-# # Personalize the colours in your website. Colour values can be any valid CSS colour
+# Whether or not to show an excerpt for every blog post in the feed page
+feed_show_excerpt: true
 
-# navbar-col: "#EAEAEA"
-# navbar-text-col: "#404040"
-# navbar-border-col: "#DDDDDD"
-# page-col: "#FFFFFF"
-# text-col: "#404040"
-# link-col: "#008AFF"
-# hover-col: "#0085A1"
-# footer-col: "#EAEAEA"
-# footer-text-col: "#777777"
-# footer-link-col: "#404040"
+# Whether or not to show a list of tags below each post preview in the feed page
+feed_show_tags: true
 
-# # Alternatively, the navbar, footer, and page background can be set to an image
-# # instead of colour
+# Add a search button to the navbar
+post_search: true
 
-# #navbar-img: "/assets/img/bgimage.png"
-# #footer-img: "/assets/img/bgimage.png"
-# #page-img: "/assets/img/bgimage.png"
+# The keywords to associate with your website, for SEO purposes
+#keywords: "my,list,of,keywords"
 
-# # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-# #mobile-theme-col: "#0085A1"
+# --- Colours / background image --- #
 
-# # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-# #site-css:
-# #  - "/assets/css/custom-styles.css"
+# Personalize the colours in your website. Colour values can be any valid CSS colour
 
-# # If you have common JavaScript files that should be included in every page, list them here
-# #site-js:
-# #  - "/assets/js/custom-script.js"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
 
-# # --- Web Analytics Section --- #
+# Alternatively, the navbar, footer, and page background can be set to an image
+# instead of colour
 
-# # Fill in your Google Analytics gtag.js ID to track your website using gtag
-# #gtag: ""
+#navbar-img: "/assets/img/bgimage.png"
+#footer-img: "/assets/img/bgimage.png"
+#page-img: "/assets/img/bgimage.png"
 
-# # Fill in your Google Analytics ID to track your website using Google Analytics
-# #google_analytics: ""
+# Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
+#mobile-theme-col: "#0085A1"
 
-# # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
-# #cloudflare_analytics: ""
+# For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
+#site-css:
+#  - "/assets/css/custom-styles.css"
 
-# # Google Tag Manager ID
-# #gtm: ""
+# If you have common JavaScript files that should be included in every page, list them here
+#site-js:
+#  - "/assets/js/custom-script.js"
 
-# # Matomo (aka Piwik) Web statistics
-# # Uncomment the following section to enable Matomo. The opt-out parameter controls
-# # whether or not you want to allow users to opt out of tracking.
-# #matomo:
-# #  site_id: "9"
-# #  uri: "demo.wiki.pro"
-# #  opt-out: true
+# --- Web Analytics Section --- #
 
-# # --- Comments --- #
+# Fill in your Google Analytics gtag.js ID to track your website using gtag
+#gtag: ""
 
-# # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-# #disqus: ""
+# Fill in your Google Analytics ID to track your website using Google Analytics
+#google_analytics: ""
 
-# # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-# #fb_comment_id: ""
+# Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
+#cloudflare_analytics: ""
 
-# # To use Utterances comments: (0) uncomment the following section, (1) fill in
-# # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
-# # (3) Install the Utterances app in your repository https://github.com/apps/utterances
-# # See more details about the parameters below at https://utteranc.es/
-# #utterances:
-# #  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
-# #  issue-term: title   # Mapping between blog posts and GitHub issues
-# #  theme: github-light # Utterances theme
-# #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+# Google Tag Manager ID
+#gtm: ""
 
-# # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
-# # section commented if you aren't using reCaptcha for spam protection. 
-# # Using Staticman requires advanced knowledge, please consult 
-# # https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further 
-# # instructions. For any support with staticman please direct questions to staticman and 
-# # not to BeautifulJekyll.
-# #staticman:
-# #  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-# #  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-# #  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
-# #  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
-# #    siteKey  : # You need to apply for a site key on Google
-# #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
+# Matomo (aka Piwik) Web statistics
+# Uncomment the following section to enable Matomo. The opt-out parameter controls
+# whether or not you want to allow users to opt out of tracking.
+#matomo:
+#  site_id: "9"
+#  uri: "demo.wiki.pro"
+#  opt-out: true
 
-# # --- Misc --- #
+# --- Comments --- #
 
-# # Ruby Date Format to show dates of posts
-# date_format: "%B %-d, %Y"
+# To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
+#disqus: ""
 
-# # Facebook App ID
-# #fb_app_id: ""
+# To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
+#fb_comment_id: ""
 
-# # --- You don't need to touch anything below here (but you can if you want) --- #
+# To use Utterances comments: (0) uncomment the following section, (1) fill in
+# "repository" (make sure the repository is public), (2) Enable Issues in your repository,
+# (3) Install the Utterances app in your repository https://github.com/apps/utterances
+# See more details about the parameters below at https://utteranc.es/
+#utterances:
+#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  issue-term: title   # Mapping between blog posts and GitHub issues
+#  theme: github-light # Utterances theme
+#  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
-# # Output options (more information on Jekyll's site)
-# timezone: "America/Toronto"
-# markdown: kramdown
-# highlighter: rouge
-# permalink: /:year-:month-:day-:title/
-# paginate: 5
+# To use Staticman comments, uncomment the following section. You may leave the reCaptcha
+# section commented if you aren't using reCaptcha for spam protection. 
+# Using Staticman requires advanced knowledge, please consult 
+# https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further 
+# instructions. For any support with staticman please direct questions to staticman and 
+# not to BeautifulJekyll.
+#staticman:
+#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+#  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
+#  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
+#    siteKey  : # You need to apply for a site key on Google
+#    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
 
-# kramdown:
-#   input: GFM
+# --- Misc --- #
 
-# # Default YAML values (more information on Jekyll's site)
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#       type: "posts"
-#     values:
-#       layout: "post"
-#       comments: true  # add comments to all blog posts
-#       social-share: true # add social media sharing buttons to all blog posts
-#   -
-#     scope:
-#       path: "" # any file that's not a post will be a "page" layout by default
-#     values:
-#       layout: "page"
+# Ruby Date Format to show dates of posts
+date_format: "%B %-d, %Y"
 
-# # Exclude these files from production site
-# exclude:
-#   - CHANGELOG.md
-#   - CNAME
-#   - Gemfile
-#   - Gemfile.lock
-#   - LICENSE
-#   - README.md
-#   - screenshot.png
-#   - docs/
+# Facebook App ID
+#fb_app_id: ""
 
-# plugins:
-#   - jekyll-paginate
-#   - jekyll-sitemap
+# --- You don't need to touch anything below here (but you can if you want) --- #
 
-# # Beautiful Jekyll / Dean Attali
-# # 2fc73a3a967e97599c9763d05e564189
+# Output options (more information on Jekyll's site)
+timezone: "America/Toronto"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "page"
+
+# Exclude these files from production site
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
 
