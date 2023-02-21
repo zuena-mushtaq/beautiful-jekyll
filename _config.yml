@@ -1,24 +1,24 @@
-# # Site settings
+# Site settings
  
-# title: Zuena Mushtaq CPP 527 Lab 5
+title: Zuena Mushtaq CPP 527 Lab 5
  
-# email: zuena.mushtaq@asu.edu
+email: zuena.mushtaq@asu.edu
  
-# description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
  
-# baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
  
-# url: "http://zuena-mushtaq.github.io" # the base hostname & protocol for your site
+url: "http://zuena-mushtaq.github.io" # the base hostname & protocol for your site
  
-# twitter_username: zuenamushtaq
+twitter_username: zuenamushtaq
  
-# github_username:  zuena-mushtaq
+github_username:  zuena-mushtaq
  
  
  
-# # Build settings
+# Build settings
  
-# markdown: kramdown
+markdown: kramdown
 
 
 # Welcome to Beautiful Jekyll!
