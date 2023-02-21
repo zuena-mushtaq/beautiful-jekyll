@@ -16,9 +16,9 @@
  
  
  
-# Build settings
+# # Build settings
  
-markdown: kramdown
+# markdown: kramdown
 
 
 # Welcome to Beautiful Jekyll!
