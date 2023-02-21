@@ -20,9 +20,8 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"
     baseurl: ""
-    url: "https://zuenamushtaq.github.io"
-ADD THIS LINK
-  Author's home: "https://deanattali.com"
+    url: "http://zuenamushtaq.github.io"
+
 
 # --- Logo --- #
 
