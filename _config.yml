@@ -45,6 +45,9 @@ navbar-links:
     baseurl: ""
     url: "https://zuena-mushtaq.github.io"
 
+runs:
+ using: 'node16'
+ main: 'main.js'
 
 # --- Logo --- #
 
